@@ -1,0 +1,319 @@
+html {
+  font-size: 100%; color:#262020;
+  /**so users can adjust text size properly**/
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+body {background: white;
+font-family: News Gothic MT, news-gothic-std, Franklin Gothic Book, Arial, Geneva, Helvetica, Devanagari Sangam MN, Euphemia UCAS, Lao Sangam MN, Microsoft Sans Serif, Myanmar Sangam MN, Tamil, Calibri, sans-serif;
+font-style: normal;	
+margin:0; padding:0; 
+
+
+}
+
+
+.container_a {width:100%; height: auto; 
+margin:0; padding:0;}
+.wrap_a {width:100%; height: auto; margin:0 auto; padding:0;}
+.wrap_a ul {width:100%; display:flex; justify-content:left; align-items: center;
+padding:0 ; 
+}
+
+.wrap_a ul li { list-style-type: none; margin:0; padding:0 0 0 15px;
+}
+
+/**************MENU*************************/
+a:link {text-decoration:none; color:rgb(60, 64, 77);}/* unvisited link */
+a:visited {color:rgba(60, 64, 77, 0.4);}  /* visited link */
+a:hover {color:rgba(60, 64, 77, 0.4);}  /* mouse over link */
+a:active {color:rgba(60, 64, 77, 0.4);}  /* selected link */
+
+a.hiddin:link {text-decoration:none;color:#333333;}/* unvisited link */
+a.hiddin:visited {color:#333333;}  /* visited link */
+a.hiddin:hover {color:#333333;}  /* mouse over link */
+a.hiddin:active {color:#333333;}  /* selected link */
+
+a.current:link {text-decoration:none; color:rgba(60, 64, 77, 0.4);}
+a.current:visited {text-decoration:none; color:rgba(60, 64, 77, 0.4);}
+a.current:hover {text-decoration:none; color:grey;}
+a.current:active {text-decoration:none; color:grey;}
+
+/********************MAIN********************/
+
+
+.container_h {width:100%;   margin:0; padding:0;
+display:flex; flex-direction:column;  
+justify-content:center;
+align-items:center;
+
+}
+
+
+
+.wrap_h {padding :10px;
+
+width:100%; 
+
+}
+.wrap_h img {width: 100%;    
+border-radius:5px; border:1px solid #978673;}
+
+.mhide {display:none;}
+
+.wrap_h h2 {
+color:white; background: rgba(60, 64, 77, 0.4); padding:10px; 
+border-radius: 5px; 
+}
+
+
+.container_i {width:100%; margin-top:10px;  height:346px;
+ }
+.wrap_i {width:100%; margin:auto;
+display:flex; flex-direction:column;	
+justify-content:center; align-items:center;}
+.wrap_i div {width: 100%;  padding:5px;  }
+.wrap_i div p  {text-align: left; margin-top:-10px; padding-top: 0;}
+.wrap_i div img {width: 100%; 
+border-radius:5px; border:1px solid #978673; }
+
+
+.copy {display:flex; justify-content:center; }
+/**centre's the copyright text at bottom **/
+
+
+
+
+
+
+
+
+
+
+
+/******************PROJECTS.HTML*******************/
+.buttons2{ 
+padding:0; margin:10px 0 0 0 ; 
+border:none;
+background:none; font-size:0.9em;}
+
+.container_b {width:100%;  
+}
+.wrap_b {width:100%;}
+.box_ba img {width:100%; border-radius:3px; border:1px solid #978673;}
+.box_ba {background-color:rgba(255,255,255,0.6); width:100%; margin:auto;
+border-radius: 5px; padding:5px; border:1px solid rgba(255,255,255,0.6);}
+.box_ba h2 {margin:15px 0 0 0; padding:10px;}
+.box_ba p {margin:0; padding:10px 10px 0 13px;}
+.box_ba .buttons{ 
+padding-left:3px; margin:0 ; 
+border:none;
+background:none; font-size:0.9em;}
+
+
+.project_hr {margin:80px auto 130px auto; width:50%;}
+
+.bold {font-weight: bold;}
+.mmore {line-height: 1.5em;}
+
+
+.container_e {width:100%; margin-top:10px;  
+ }
+.wrap_e {width:100%; margin:auto;
+display:flex; flex-direction:column;	
+justify-content:center; align-items:center;}
+.wrap_e div {width: 100%;  padding:5px;  }
+.wrap_e div p  {text-align: left; margin:0 0 20px 5px; padding-top: 0;}
+.wrap_e div img {width: 100%; border-radius:4px; border:1px solid #978673; }
+
+
+/**_d St Mary's main**/
+.container_d {width:100%;  }
+.wrap_d {width:100%;}
+.box_da img {width:100%; border-radius:3px; border:1px solid #978673;}
+.box_da {background-color:rgba(255,255,255,0.6); width:100%; margin:auto;
+border-radius: 5px; padding:5px; border:1px solid rgba(255,255,255,0.6);}
+.box_da h2 {margin:15px 0 0 0; padding:10px;}
+.box_da p {margin: 0 ; padding:10px 10px 0 13px;}
+.box_da .buttons{ 
+padding-left:3px; margin:0 ; 
+border:none;
+background:none; font-size:0.9em;}
+.more {width:100%; margin:10px 0 0 10px; }
+.more div { display:flex; font-size:0.9em; line-height: 1.4em;
+flex-direction:column;}
+.more .leftmore { }
+.more .rightmore { }
+
+
+.text_top {vertical-align: text-top;}
+table {font-size: 0.9em; margin:10px 0 0 12px;}
+
+
+.container_y {width:100%;  }
+.wrap_y {border-radius: 5px;
+width:100%; 
+}
+.box_ya {background-color:rgba(255,255,255, 0.6); width:100%; 
+border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.6);}
+.box_ya img {width:100%; border-radius:3px; border:1px solid #978673;}
+.box_ya h2 {margin:15px 0 0 0; padding:10px;}
+.box_ya p {margin: 0 ; padding:10px 10px 0 13px;}
+.box_ya .buttons2{ 
+padding:0; margin:10px 0 0 0 ; 
+border:none;
+background:none; font-size:0.9em;}
+
+.consultant {position:relative; left:-22px; }
+
+
+
+
+.container_z {width:100%; margin-top:10px; }
+.wrap_z {width:100%; margin:auto;
+display:flex; flex-direction:column;	
+justify-content:center; align-items:center;}
+
+
+.wrap_z div {width: 100%;  padding:5px;  }
+.wrap_z div p  {text-align: left; margin:0 0 20px 5px; padding-top: 0;}
+.wrap_z div img {width: 100%; border-radius:4px; border:1px solid #978673;}
+
+
+
+.container_y1 {width:100%;}
+.wrap_y1 {
+border-radius: 5px;
+width:100%;  
+}
+.box_y1a {background-color:rgba(255,255,255, 0.6); width:100%; 
+border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.6);}
+
+.box_y1a h2 {margin:15px 0 0 0; padding:10px;}
+.box_y1a p {margin: 0 ; padding:10px 10px 0 13px;}
+.box_y1a h3 {margin: 0 ; padding:0 10px 0 12px;}
+.box_y1a img {width:100%; border-radius:3px; border:1px solid #978673;}
+.box_y1a .buttonsy1{ 
+padding:0; margin:0 ; 
+border:none;
+background:none; font-size:0.9em;}
+
+
+
+.box_y1a .buttonsy1{ 
+padding:0; margin:0 ; 
+border:none;
+background:none; font-size:0.9em;}
+
+.container_z1 {width:100%; margin-top:10px;  }
+.wrap_z1 {width:100%; margin:auto;
+display:flex; flex-direction:column;	
+justify-content:center; align-items:center; }
+
+
+.wrap_z1 div {width: 100%;  padding:5px;   }
+.wrap_z1 div p  {text-align: left; margin:0 0 20px 5px; padding-top: 0;}
+.wrap_z1 div img {width: 100%; border-radius:4px; border:1px solid #978673;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container_g {width:100%;}
+.wrap_g {border-radius: 5px;
+width:100%; }
+.box_ga {background-color:rgba(255,255,255, 0.6); width:100%; 
+border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.6);}
+.box_ga h2 {margin:15px 0 0 0; padding:10px;}
+.box_ga p {margin: 0 ; padding:10px 10px 0 13px;}
+.box_ga img {width:100%; border-radius:3px; border:1px solid #978673;}
+
+.box_ga .buttons2{ 
+padding:0; margin:10px 0 0 0 ; 
+border:none;
+background:none; font-size:0.9em;}
+
+.box_ga .right { }
+
+
+
+
+
+
+.container_y2 {width:100%;}
+.wrap_y2 {border-radius: 5px;
+width:100%; 
+}
+.box_y2a {background-color:rgba(255,255,255, 0.6); width:100%; 
+border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.6);}
+
+.box_y2a img {width:100%; border-radius:3px; border:1px solid #978673;}
+.box_y2a h2 {margin:15px 0 0 0; padding:10px;}
+.box_y2a p {margin: 0 ; padding:10px 10px 0 13px;}
+.box_y2a .buttons2{ 
+padding:0; margin:10px 0 0 0 ; 
+border:none;
+background:none; font-size:0.9em;}
+
+
+
+
+
+.container_z2 {width:100%; margin-top:10px; }
+.wrap_z2 {width:100%; display:flex; flex-direction:column;}
+
+
+.wrap_z2 div {width: 100%; padding:5px;}
+.wrap_z2 div p  {text-align: left; margin:0 0 20px 5px; padding-top: 0;}
+.wrap_z2 div img {width: 100%; border-radius:4px; border:1px solid #978673; }
+
+
+
+
+
+
+
+/****************ABOUT***AND CONTACT***********************/
+.container_b1 {width:100%;  }
+.wrap_b1 {padding:15px;
+background-image: url("images/about/aboutsm.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+border-radius: 5px;
+width:100%; margin-top:20px; 
+display:flex; flex-direction:column;
+}
+.box_b1a {background-color:rgba(255,255,255,0.6);  
+border-radius: 5px; padding:15px; border:1px solid rgba(255,255,255,0.6);}
+
+.box_b1a h2 {margin:0; padding:0;}
+
+
+
+
+.box_b2a h2 {margin:0; padding:0;}
+
+
+.back_to_top {text-align: center; }
+
+.box_id {width:100%; display:flex; flex-direction:column;
+justify-content:center; align-items: center; margin-top:30px;}
+
+.box_id p {text-align: center;}
+
+.container_j p {text-align: center; margin-top: 50px;}
+

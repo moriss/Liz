@@ -1,0 +1,428 @@
+/***BELOW IS FROM AUGUST 24 CHANGES***/
+
+/**NEW CSS FOR ATHELSTANFORD.**/
+.container_g2 {width:100%; height: 570px; margin:144px 0 144px 0;}
+.wrap_g2 {
+background-image: url("images/projects/athel/athpublic.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+border-radius:5px; border:1px solid #978673;
+width:1024px; margin:20px auto; height: 570px;
+}
+.box_ga2 {background-color:rgba(255,255,255, 0.6); width:450px; margin:40px auto 0 auto;
+border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.6);}
+
+.box_ga2 h2 {margin:0; padding:0;}
+
+.box_ga2 .buttons2{ 
+padding:0; margin:-10px 0 0 0 ; 
+border:none;
+background:none; font-size:0.9em;}
+.box_ga2 .right {float: right; }
+/**ABOVE IS NEW CSS FOR ATHELSTANFORD.**/
+
+.tdshort{width:5px;}
+.notformain {display:none;}
+
+/***ABOVE IS FROM AUGUST 24 CHANGES***/
+
+html {height:101%;
+  font-size: 100%; color:#262020;
+  /**so users can adjust text size properly**/
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+body {background: white;
+font-family: News Gothic MT, news-gothic-std, Franklin Gothic Book, Arial, Geneva, Helvetica, Devanagari Sangam MN, Euphemia UCAS, Lao Sangam MN, Microsoft Sans Serif, Myanmar Sangam MN, Tamil, Calibri, sans-serif;
+font-style: normal;	
+margin:0; padding:0; 
+line-height: 1.4;
+
+}
+
+
+.container_a {width:100%; height: 10px;}
+.wrap_a {width:1024px; margin:auto;}
+.wrap_a ul {margin:10px 0 0 5px; padding:0;}
+.wrap_a ul li {float:left; list-style-type: none; margin:0; padding-right:15px;}
+
+/**************MENU*************************/
+a:link {text-decoration:none; color:rgb(60, 64, 77);}/* unvisited link */
+a:visited {color:rgba(60, 64, 77, 0.4);}  /* visited link */
+a:hover {color:rgba(60, 64, 77, 0.4);}  /* mouse over link */
+a:active {color:rgba(60, 64, 77, 0.4);}  /* selected link */
+
+a.hiddin:link {text-decoration:none;color:#333333;}/* unvisited link */
+a.hiddin:visited {color:#333333;}  /* visited link */
+a.hiddin:hover {color:#333333;}  /* mouse over link */
+a.hiddin:active {color:#333333;}  /* selected link */
+
+a.current:link {text-decoration:none; color:rgba(60, 64, 77, 0.4);}
+a.current:visited {text-decoration:none; color:rgba(60, 64, 77, 0.4);}
+a.current:hover {text-decoration:none; color:grey;}
+a.current:active {text-decoration:none; color:grey;}
+
+/********************MAIN********************/
+
+
+.container_h {width:100%; height: 470px;  margin-top:20px;}
+.wrap_h {
+
+background-image: url("images/home/courtyard.JPG");
+background-repeat: no-repeat;
+background-size: 100%;
+border-radius:5px; border:1px solid #978673;
+width:1024px; margin:0 auto; height: 470px;
+}
+.wrap_h h2 {
+
+width:10%; margin-top:204px;
+color:white; background: rgba(60, 64, 77, 0.4); padding:10px 0; text-align:center;
+min-width:1024px; 
+}
+
+.dhide {display:none;}
+
+.container_i {width:100%; margin-top:10px;  height:346px;
+ }
+.wrap_i {width:1024px; margin:auto;}
+.wrap_i div:nth-child(3) {padding: 0 0 0 5px; float:right;}
+.wrap_i div:nth-child(2) {padding: 0 0 0 2px; float:left;}
+.wrap_i div:nth-child(1)  {padding: 0 5px 0 0; float:left;}
+
+.wrap_i div {width: 341px; height:346px; padding:0 5px 0 0; float:left; }
+.wrap_i div p  {text-align: left; margin-top:0; padding-top: 0;}
+.wrap_i div img {width: 336px; height:336px; border-radius:5px; border:1px solid #978673;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************PROJECTS.HTML*******************/
+
+
+
+.container_k {width:100%; height: 470px; margin:20px 0 10px 0;
+}
+.wrap_k {
+background-image: url("images/projects/papple/mpgs48_top.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+border-radius:5px; border:1px solid #978673;
+width:1024px; margin:0 auto 0 auto; height: 470px;
+}
+
+/**.box_ka below is the transparant box over the main image**/
+.box_ka {background-color:rgba(255,255,255,0.6); width:450px; margin:20px auto 0 auto;
+border-radius: 5px; padding:15px; border:1px solid rgba(255,255,255,0.6); }
+
+.box_ka h2 {margin:0; padding:0;}
+
+.box_ka .buttons{ 
+padding:0; margin:-10px 0 0 0; 
+border:none;
+background:none; }
+
+
+
+
+
+
+
+
+
+
+.container_b {width:100%; height: 470px; margin:20px 0 10px 0;
+}
+.wrap_b {
+background-image: url("images/projects/peduzzi/peduzzi_large.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+border-radius:5px; border:1px solid #978673;
+width:1024px; margin:0 auto 0 auto; height: 470px;
+}
+.box_ba {background-color:rgba(255,255,255,0.6); width:450px; margin:20px auto 0 auto;
+border-radius: 5px; padding:15px; border:1px solid rgba(255,255,255,0.6);}
+
+.box_ba h2 {margin:0; padding:0;}
+
+.box_ba .buttons{ 
+padding:0; margin:-10px 0 0 0; 
+border:none;
+background:none; }
+
+
+.more {width:100%; margin:auto; }
+.more div {float:left; font-size:0.9em; line-height: 1.4em;}
+.more .leftmore {width:20%;}
+.more .rightmore {width:75%;}
+
+.bold {font-weight: 600;}
+
+table {font-size:0.9em;}
+
+
+
+.container_c {width:100%; height:316px; margin-top:20px; }
+.wrap_c {width:1024px; height: 316px; margin:auto;}
+.wrap_c div {float:left; width:49%;  height: 316px;}
+.box_ca img {border-radius: 5px;}
+.box_ca p {text-align:left;}
+.box_cb p {text-align: left; margin-top:150px;}
+
+.container_c1 {width:100%; margin-top:20px;}
+.wrap_c1 {width:1024px; margin:auto;}
+.wrap_c1 div {width: 330px;  height: 330px; padding:0 20px 0 20px; float:left; }
+.wrap_c1 div p  {text-align: center; margin-top:0; padding-top: 0;}
+.wrap_c1 div img {width: 330px;  height:330px; border-radius:3px; border:1px solid #C6C5C3;}
+
+.clear {clear:both;}
+
+
+.project_hr {margin:115px auto 115px auto; width:50%;}
+
+
+
+
+.container_d {width:100%; height: 470px; margin-top:144px;}
+.wrap_d {
+background-image: url("images/projects/stmarys/st_marys_main2.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+border-radius:5px; border:1px solid #978673;
+width:1024px; margin:20px auto; height: 470px;
+}
+.box_da {background-color:rgba(255,255,255, 0.6); width:450px; margin:40px auto 0 auto;
+border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.6);}
+
+.box_da h2 {margin:0; padding:0;}
+
+.box_da .buttons2{ 
+padding:0; margin:-10px 0 0 0 ; 
+border:none;
+background:none; font-size:0.9em;}
+
+
+
+
+.container_e {width:100%; margin-top:10px;  height:336px; }
+.wrap_e {width:1024px; margin:auto; }
+.wrap_e div:nth-child(3) {padding: 0 0 0 5px; float:right;}
+.wrap_e div:nth-child(2) {padding: 0 0 0 2px; float:left;}
+.wrap_e div:nth-child(1)  {padding: 0 5px 0 0; float:left;}
+
+.wrap_e div {width: 341px;  padding:0 5px 0 0; float:left; }
+.wrap_e div p  {text-align:left; margin:7px 0 0 3px; padding-top: 0;}
+.wrap_e div img {width: 100%; border-radius:5px; border:1px solid #978673;}
+
+
+
+
+
+
+.container_y {width:100%; height: 470px; margin-top:144px;}
+.wrap_y {
+background-image: url("images/projects/arts_crafts/arts_main.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+border-radius:5px; border:1px solid #978673;
+width:1024px; margin:20px auto; height: 470px;
+}
+.box_ya {background-color:rgba(255,255,255, 0.6); width:450px; margin:40px auto 0 auto;
+border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.6);}
+
+.box_ya h2 {margin:0; padding:0;}
+
+.box_ya .buttons2{ 
+padding:0; margin:-10px 0 0 0 ; 
+border:none;
+background:none; font-size:0.9em;}
+
+
+
+
+.container_z {width:100%; margin-top:10px;  height:336px;}
+.wrap_z {width:1024px; margin:auto;}
+.wrap_z div:nth-child(3) {padding: 0 0 0 5px; float:right;}
+.wrap_z div:nth-child(2) {padding: 0 0 0 2px; float:left;}
+.wrap_z div:nth-child(1)  {padding: 0 5px 0 0; float:left;}
+
+.wrap_z div {width: 341px;  padding:0 5px 0 0; float:left; }
+.wrap_z div p  {text-align:left; margin:7px 0 0 3px; padding-top: 0;}
+.wrap_z div img {width: 100%; border-radius:5px; border:1px solid #978673;}
+/**
+.container_e {width:100%; margin-top:20px;}
+.wrap_e {width:1024px; margin:auto;}
+.wrap_e div {width: 300px;}
+.wrap_e div p  {text-align: center;}
+.wrap_e div img {width: 300px; border-radius:3px; }
+
+.box_ea {float:left; }
+.box_ea {float:right;}
+**/
+
+.container_y1 {width:100%; height: 470px; margin-top:144px;}
+.wrap_y1 {
+background-image: url("images/projects/cowanes/cowanes_main.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+border-radius:5px; border:1px solid #978673;
+
+width:1024px; margin:20px auto; height: 470px;
+
+}
+.box_y1a {background-color:rgba(255,255,255, 0.6); width:450px; margin:40px auto 0 auto;
+border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.6);}
+
+.box_y1a h2 {margin:0; padding:0;}
+.box_y1a h3 {margin:0; padding:0;}
+.box_y1a .buttonsy1{ 
+padding:0; margin-top:-15px ; 
+border:none;
+background:none; font-size:0.9em;}
+
+
+.tdright {text-align: right;}
+
+.container_z1 {width:100%; margin-top:10px;  height:336px;}
+.wrap_z1 {width:1024px; margin:auto;}
+.wrap_z1 div:nth-child(3) {padding: 0 0 0 5px; float:right;}
+.wrap_z1 div:nth-child(2) {padding: 0 0 0 2px; float:left;}
+.wrap_z1 div:nth-child(1)  {padding: 0 5px 0 0; float:left;}
+
+.wrap_z1 div {width: 341px;  padding:0 5px 0 0; float:left; }
+.wrap_z1 div p  {text-align:left; margin:7px 0 0 3px; padding-top: 0;}
+.wrap_z1 div img {width: 100%; border-radius:5px; border:1px solid #978673;}
+
+
+
+
+
+
+
+
+
+.picture_more {width:1024px; margin:auto;}
+.picture_more .buttons{ 
+padding:0; margin:10px 0 0 0 ; 
+border:none;
+background:none; font-size:0.9em;}
+
+
+
+
+
+
+/**
+.container_f {width:100%; margin-top:20px;}
+.wrap_f {width:1024px; margin:auto;}
+.wrap_f div {width: 320px;  padding:0 20px 0 20px; float:left; }
+.wrap_f div p  {text-align: center; margin-top:0; padding-top: 0;}
+.wrap_f div img {width: 100%; border-radius:3px; border:1px solid #C6C5C3;}
+**/
+
+
+.container_g {width:100%; height: 570px; margin:144px 0 144px 0;}
+.wrap_g {
+background-image: url("images/projects/dean_village/dean_village.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+border-radius:5px; border:1px solid #978673;
+width:1024px; margin:20px auto; height: 570px;
+}
+.box_ga {background-color:rgba(255,255,255, 0.6); width:450px; margin:40px auto 0 auto;
+border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.6);}
+
+.box_ga h2 {margin:0; padding:0;}
+
+.box_ga .buttons2{ 
+padding:0; margin:-10px 0 0 0 ; 
+border:none;
+background:none; font-size:0.9em;}
+.box_ga .right {float: right; }
+
+
+
+
+.container_y2 {width:100%; height: 470px; margin-top:144px;}
+.wrap_y2 {
+background-image: url("images/projects/museum/museum_main.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+border-radius:5px; border:1px solid #978673;
+width:1024px; margin:20px auto; height: 470px;
+}
+.box_y2a {background-color:rgba(255,255,255, 0.6); width:450px; margin:40px auto 0 auto;
+border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.6);}
+
+.box_y2a h2 {margin:0; padding:0;}
+
+.box_y2a .buttons2{ 
+padding:0; margin:-10px 0 0 0 ; 
+border:none;
+background:none; font-size:0.9em;}
+
+
+
+
+.container_z2 {width:100%; margin-top:10px;  height:336px;}
+.wrap_z2 {width:1024px; margin:auto;}
+.wrap_z2 div:nth-child(3) {padding: 0 0 0 5px; float:right;}
+.wrap_z2 div:nth-child(2) {padding: 0 0 0 2px; float:left;}
+.wrap_z2 div:nth-child(1)  {padding: 0 5px 0 0; float:left;}
+
+.wrap_z2 div {width: 341px;  padding:0 5px 0 0; float:left; }
+.wrap_z2 div p  {text-align:left; margin:7px 0 0 3px; padding-top: 0;}
+.wrap_z2 div img {width: 100%; border-radius:5px; border:1px solid #978673;}
+
+/**************************ABOUT***************************/
+
+.about_container {width:100%; margin-top:30px;}
+.about_wrap {width:900px; margin:auto; padding:10px;
+border:1px solid rgba(60, 64, 77, 0.4);}
+
+.back_to_top {text-align: center; margin-top:106px; }
+.back_to_top {text-align: center; margin-top:106px; }
+
+
+
+* {font-weight:normal;}
+
+
+
+
+/****************ABOUT**************************/
+.container_b1 {width:100%; height: 470px; margin-bottom:-90px;}
+.wrap_b1 {
+background-image: url("images/about/about.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+border-radius:5px; border:1px solid #978673;
+width:1024px; margin:20px auto 0 auto; height: 470px;
+}
+.box_b1a {background-color:rgba(255,255,255,0.6); width:450px; margin:40px auto 0 auto;
+border-radius: 5px; padding:15px; border:1px solid rgba(255,255,255,0.6);}
+
+.box_b1a h2 {margin:0; padding:0;}
+
+
+.container_j {width:100%;  margin-top:120px;}
+.container_j p {text-align: center;}
+
+
+
+
