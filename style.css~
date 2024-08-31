@@ -15,8 +15,8 @@ background-size: 100%;
 border-radius:5px; border:1px solid #978673;
 width:1024px; margin:20px auto; height: 570px;
 }
-.box_ga2 {background-color:rgba(255,255,255, 0.7); width:450px; margin:40px auto 0 auto;
-border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.7);}
+.box_ga2 {background-color:rgba(255,255,255, 0.6); width:450px; margin:40px auto 0 auto;
+border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.6);}
 
 .box_ga2 h2 {margin:0; padding:0;}
 

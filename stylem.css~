@@ -1,9 +1,5 @@
 /***AUGUST 24 UPDATES***/
 
-.margin_top {margin-top:8px;}
-
-body {line-height: 1.5;}
-
 /***NEW CSS FOR ATHELSTANFORD**/
 .container_g2 {width:100%;}
 .wrap_g2 {border-radius: 5px;
