@@ -431,5 +431,11 @@ border-radius: 5px; padding:15px; border:1px solid rgba(255,255,255,0.7);}
 .container_j p {text-align: center;}
 
 
+/**Here I want to move the contents of stylem to here and use the @media queery**/
+@media(max-width: 767px){
+
+}
+
+
 
 
