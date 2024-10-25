@@ -1,0 +1,1 @@
+This particular liz git version is being worked on to increase image clarity whilst decreasing image size. When done, I will push it to github. I have also backed up the current github liz repo on this Desktop just in case. (Desktop/liz_git_backup .

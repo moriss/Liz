@@ -9,7 +9,7 @@ body {line-height: 1.5;}
 /**NEW CSS FOR ATHELSTANFORD.**/
 .container_g2 {width:100%; height: 570px; margin:144px 0 144px 0;}
 .wrap_g2 {
-background-image: url("images/projects/athel/athpublic.jpg");
+background-image: url("images/projects/athel/athelstaneford.jpg");
 background-repeat: no-repeat;
 background-size: 100%;
 border-radius:5px; border:1px solid #978673;
@@ -79,7 +79,7 @@ a.current:active {text-decoration:none; color:grey;}
 .container_h {width:100%; height: 470px;  margin-top:20px;}
 .wrap_h {
 
-background-image: url("images/home/courtyard.JPG");
+background-image: url("images/home/main-logo-bg.jpg");
 background-repeat: no-repeat;
 background-size: 100%;
 border-radius:5px; border:1px solid #978673;
@@ -124,7 +124,7 @@ min-width:1024px;
 .container_k {width:100%; height: 470px; margin:20px 0 10px 0;
 }
 .wrap_k {
-background-image: url("images/projects/papple/pnewmain.jpg");
+background-image: url("images/projects/papple/papple-bg.jpg");
 background-repeat: no-repeat;
 background-size: 100%;
 border-radius:5px; border:1px solid #978673;
@@ -154,7 +154,7 @@ background:none; }
 .container_b {width:100%; height: 470px; margin:20px 0 10px 0;
 }
 .wrap_b {
-background-image: url("images/projects/peduzzi/peduzzi_large.jpg");
+background-image: url("images/projects/peduzzi/peduzzi_background.jpg");
 background-repeat: no-repeat;
 background-size: 100%;
 border-radius:5px; border:1px solid #978673;
@@ -207,7 +207,7 @@ table {font-size:0.9em;}
 
 .container_d {width:100%; height: 470px; margin-top:144px;}
 .wrap_d {
-background-image: url("images/projects/stmarys/st_marys_main2.jpg");
+background-image: url("images/projects/stmarys/st-mary's-cathedral-bg.jpg");
 background-repeat: no-repeat;
 background-size: 100%;
 border-radius:5px; border:1px solid #978673;
@@ -243,7 +243,7 @@ background:none; font-size:0.9em;}
 
 .container_y {width:100%; height: 470px; margin-top:144px;}
 .wrap_y {
-background-image: url("images/projects/arts_crafts/arts_main.jpg");
+background-image: url("images/projects/arts_crafts/arts-and-crafts-bg.jpg");
 background-repeat: no-repeat;
 background-size: 100%;
 border-radius:5px; border:1px solid #978673;
@@ -284,7 +284,7 @@ background:none; font-size:0.9em;}
 
 .container_y1 {width:100%; height: 470px; margin-top:144px;}
 .wrap_y1 {
-background-image: url("images/projects/cowanes/cowanes_main.jpg");
+background-image: url("images/projects/cowanes/cowanes-hospital.jpg");
 background-repeat: no-repeat;
 background-size: 100%;
 border-radius:5px; border:1px solid #978673;
@@ -345,7 +345,7 @@ background:none; font-size:0.9em;}
 
 .container_g {width:100%; height: 570px; margin:144px 0 144px 0;}
 .wrap_g {
-background-image: url("images/projects/dean_village/dean_village.jpg");
+background-image: url("images/projects/dean_village/st-bernard's-well.jpg");
 background-repeat: no-repeat;
 background-size: 100%;
 border-radius:5px; border:1px solid #978673;
@@ -367,7 +367,7 @@ background:none; font-size:0.9em;}
 
 .container_y2 {width:100%; height: 470px; margin-top:144px;}
 .wrap_y2 {
-background-image: url("images/projects/museum/museum_main.jpg");
+background-image: url("images/projects/museum/museum-courtyard.jpg");
 background-repeat: no-repeat;
 background-size: 100%;
 border-radius:5px; border:1px solid #978673;
@@ -415,7 +415,7 @@ border:1px solid rgba(60, 64, 77, 0.4);}
 /****************ABOUT**************************/
 .container_b1 {width:100%; height: 470px; margin-bottom:-90px;}
 .wrap_b1 {
-background-image: url("images/about/about.jpg");
+background-image: url("images/about/about-contact.jpg");
 background-repeat: no-repeat;
 background-size: 100%;
 border-radius:5px; border:1px solid #978673;
@@ -431,10 +431,7 @@ border-radius: 5px; padding:15px; border:1px solid rgba(255,255,255,0.7);}
 .container_j p {text-align: center;}
 
 
-/**Here I want to move the contents of stylem to here and use the @media queery**/
-@media(max-width: 767px){
 
-}
 
 
 

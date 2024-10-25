@@ -1,5 +1,9 @@
 /***AUGUST 24 UPDATES***/
 
+.margin_top {margin-top:8px;}
+
+body {line-height: 1.5;}
+
 /***NEW CSS FOR ATHELSTANFORD**/
 .container_g2 {width:100%;}
 .wrap_g2 {border-radius: 5px;
@@ -13,7 +17,7 @@ border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.6);}
 .box_ga2 .buttons2{ 
 padding:0; margin:10px 0 0 0 ; 
 border:none;
-background:none; font-size:0.9em;}
+background:none; font-size:1em;}
 
 .box_ga2 .right { }
 
@@ -29,7 +33,7 @@ border-radius: 5px; padding:5px; border:1px solid rgba(255,255,255,0.6);}
 .box_ka .buttons{ 
 padding-left:3px; margin:0 ; 
 border:none;
-background:none; font-size:0.9em;}
+background:none; font-size:1em;}
 
 
 .notformobile {display:none;}
@@ -156,7 +160,7 @@ border-radius: 5px; padding:5px; border:1px solid rgba(255,255,255,0.6);}
 .box_ba .buttons{ 
 padding-left:3px; margin:0 ; 
 border:none;
-background:none; font-size:0.9em;}
+background:none; font-size:1em;}
 
 
 .project_hr {margin:80px auto 130px auto; width:50%;}
@@ -186,16 +190,16 @@ border-radius: 5px; padding:5px; border:1px solid rgba(255,255,255,0.6);}
 .box_da .buttons{ 
 padding-left:3px; margin:0 ; 
 border:none;
-background:none; font-size:0.9em;}
+background:none; font-size:1em;}
 .more {width:100%; margin:10px 0 0 10px; }
-.more div { display:flex; font-size:0.9em; line-height: 1.4em;
+.more div { display:flex; font-size:1em; line-height: 1.4em;
 flex-direction:column;}
 .more .leftmore { }
 .more .rightmore { }
 
 
 .text_top {vertical-align: text-top;}
-table {font-size: 0.9em; margin:10px 0 0 12px;}
+table {font-size: 1em; margin:10px 0 0 12px;}
 
 
 .container_y {width:100%;  }
@@ -210,7 +214,7 @@ border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.6);}
 .box_ya .buttons2{ 
 padding:0; margin:10px 0 0 0 ; 
 border:none;
-background:none; font-size:0.9em;}
+background:none; font-size:1em;}
 
 .consultant {position:relative; left:-22px; }
 
@@ -244,14 +248,14 @@ border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.6);}
 .box_y1a .buttonsy1{ 
 padding:0; margin:0 ; 
 border:none;
-background:none; font-size:0.9em;}
+background:none; font-size:1em;}
 
 
 
 .box_y1a .buttonsy1{ 
 padding:0; margin:0 ; 
 border:none;
-background:none; font-size:0.9em;}
+background:none; font-size:1em;}
 
 .container_z1 {width:100%; margin-top:10px;  }
 .wrap_z1 {width:100%; margin:auto;
@@ -287,7 +291,7 @@ border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.6);}
 .box_ga .buttons2{ 
 padding:0; margin:10px 0 0 0 ; 
 border:none;
-background:none; font-size:0.9em;}
+background:none; font-size:1em;}
 
 .box_ga .right { }
 
@@ -309,7 +313,7 @@ border-radius: 5px; padding:10px; border:1px solid rgba(255,255,255,0.6);}
 .box_y2a .buttons2{ 
 padding:0; margin:10px 0 0 0 ; 
 border:none;
-background:none; font-size:0.9em;}
+background:none; font-size:1em;}
 
 
 
